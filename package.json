@@ -1,0 +1,5 @@
+{
+  "name": "math-board",
+  "private": true,
+  "scripts": { "test": "node --test tests/parser.test.js" }
+}
